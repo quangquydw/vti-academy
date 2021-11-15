@@ -1,1 +1,3 @@
-Testing: check
+- [ ] Tên Class Đã đúng
+- [ ] Tên Project đã đúng chưa
+- [ ] Tên Hàm đã đúng chưa
